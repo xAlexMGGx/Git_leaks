@@ -3,7 +3,6 @@ import re  # signal
 import time
 import signal
 import sys
-from multiprocessing import Process, Pool
 
 RED = "\033[38;5;196m"
 GREEN = "\033[38;5;40m"
